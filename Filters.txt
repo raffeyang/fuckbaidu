@@ -1,0 +1,21 @@
+!作者:Johnny Yang
+!联系方式:ithinkinx7@gmail.com
+!使用方法：
+!Chrome用户，在地址栏输入baidu.com，然后点击tab键，输入要搜索的关键词，回车
+!Safari用户，使用Alfred然后自己写一个百度搜索的规则，即可
+!fuck百度推广，死全家
+*$domain=drmcmm.baidu.com
+*$domain=cpro.baidu.com
+*$domain=hm.baidu.com
+*$domain=pos.baidu.com
+!百度推广
+e.baidu.com
+!百度右边栏
+baidu.com###content_right
+!百度异步加载
+ss1.bdstatic.com
+!youku.com 顶部
+www.youku.com##.mainsite-nav
+!youku 侧边栏
+www.youku.com###sideTool.right-sideBar
+v.youku.com###sideTool.right-sideBar
