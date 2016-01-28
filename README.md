@@ -33,8 +33,9 @@ Also of interest: [Deploying uBlock Origin for Firefox with CCK2 and Group Polic
 Users of Debian 9 or later or Ubuntu 16.04 or later may simply
 
 `apt-get install xul-ext-ublock-origin`.
-
-### 2.Import My Filters
+### 2.Subscribe Filters
+![img](./filters.jpg)
+### 3.Import My Filters
 
 Go to uBlock settings,choose My filters,then import my filters.
 
