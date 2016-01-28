@@ -36,7 +36,7 @@ Users of Debian 9 or later or Ubuntu 16.04 or later may simply
 
 ### 2.Subscribe Filters
 
-![img](.images/filters.png)
+![img](./images/filters.png)
 
 ### 3.Import My Filters
 
