@@ -13,7 +13,9 @@ e.baidu.com
 !百度右边栏
 baidu.com###content_right
 !百度异步加载
+ss0.bdstatic.com
 ss1.bdstatic.com
+s1.bdstatic.com
 !youku.com 顶部
 www.youku.com##.mainsite-nav
 !youku 侧边栏
